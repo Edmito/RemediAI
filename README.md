@@ -61,7 +61,7 @@ O RemediAI é um sistema baseado em chatbot que recomenda remédios e produtos n
 
 Este é o fluxo de dados básico do RemediAI, que permite aos usuários obter recomendações de remédios e produtos naturais de forma rápida e fácil por meio de uma interface de chat intuitiva.
 
-## Atualizações Futuras
+# Atualizações Futuras
 
 Estamos constantemente trabalhando para melhorar a experiência do RemediAI e expandir suas funcionalidades. Aqui estão algumas das atualizações futuras que planejamos implementar:
 
